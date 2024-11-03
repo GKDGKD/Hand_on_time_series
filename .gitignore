@@ -141,3 +141,6 @@ dmypy.json
 *.pptx
 *.zip
 *.xmind
+*.tsv
+*.json
+*.tfevents
